@@ -7,4 +7,4 @@ Note: in log folder permission should be chmod 0777 log
 
 #Script will execute only by commad line
 
-php index.php -d <scanned direcotry name>
+php index.php -d 'scanned direcotry name'
